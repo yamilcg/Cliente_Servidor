@@ -1,0 +1,3 @@
+[submodule "pokemon_game"]
+    path = pokemon_game
+    url = https://github.com/yamilcg/pokemon_game.git

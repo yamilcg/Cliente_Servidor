@@ -1,0 +1,12 @@
+.gradient {
+    background-image: linear-gradient(to right bottom, #cdc3ce, #d6b8be, #d6b1a3, #c1b28b, #97b589);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cove;
+    height: 100vh;
+
+}
+
+.pokemon-shadow{
+    filter: brightness(0%)
+}
